@@ -58,3 +58,28 @@ button {
     margin-bottom: 20px;
 
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    opacity: 0.5;
+    padding: 20px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+h3 {
+    color: #fff;
+}
+
+.geeksite {
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: #05c46b;
+}
